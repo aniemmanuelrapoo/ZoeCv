@@ -9,11 +9,11 @@
 }
 
 :root {
-  --primary-hue: 20;
-  --gray-hue: 280;
+  /* --primary-hue: 20;
+  --gray-hue: 280; */
 
-  /* --primary-hue: 210;
-  --gray-hue: 240; */
+  --primary-hue: 210;
+  --gray-hue: 240;
   --color-primary: hsl(var(--primary-hue), 100%, 50%);
   --color-primary-variant: hsl(var(--primary-hue), 100%, 65%);
   --color-secondary: #ffb116;
